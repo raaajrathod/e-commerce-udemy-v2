@@ -1,0 +1,11 @@
+const config = {
+  apiKey: "AIzaSyCPce9R7mdFrcwHT8p_nUaFb4IiwDD9VZY",
+  authDomain: "e-commerce-udemy.firebaseapp.com",
+  databaseURL: "https://e-commerce-udemy.firebaseio.com",
+  projectId: "e-commerce-udemy",
+  storageBucket: "e-commerce-udemy.appspot.com",
+  messagingSenderId: "651631579265",
+  appId: "1:651631579265:web:66acf0efcb6d04b0"
+};
+
+const publishableKey = "pk_test_p1IBGweM8TqKyOAx0opJ1osY00h1QFn5No";
